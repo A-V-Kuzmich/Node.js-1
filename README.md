@@ -14,7 +14,7 @@ node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-2
 
 node index.js --action remove --id=3
 
-https://github.com/A-V-Kuzmich/Node.js-1/blob/main/img/list.JPG,
+![list](https://github.com/A-V-Kuzmich/Node.js-1/blob/main/img/list.JPG,)
 https://github.com/A-V-Kuzmich/Node.js-1/blob/main/img/get.JPG,
 https://github.com/A-V-Kuzmich/Node.js-1/blob/main/img/add.JPG,
 https://github.com/A-V-Kuzmich/Node.js-1/blob/main/img/remove.JPG.
